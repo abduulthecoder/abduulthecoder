@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abduulthecoder
-- 👀 I’m interested in iOS Development 
-- 🌱 I’m currently learning swift and SwiftUI
+- 👋 Hey there, I'm Abdulrahman 
+- 👀 I’m interested in iOS Development, Software Engineering, Cybersecurity and more! 
+- 🌱 I’m currently learning swift, SwiftUI, C and Python
 - 👥 I’m looking to collaborate on iOS Projects
 - 📫 How to reach me abdxl.saleh@gmail.com
 
